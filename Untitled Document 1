@@ -1,2 +1,8 @@
 token: 
 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
+
+
+
+git config --global credential.helper store
+
+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
